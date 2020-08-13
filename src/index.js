@@ -9,3 +9,4 @@ import './assets/scss/main.scss';
 // import './assets/css/main.css'
 
 console.log(2);
+console.log(3);
